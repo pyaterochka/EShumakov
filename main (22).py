@@ -9,6 +9,6 @@ def sehet ():
         print (b-a)
     return a, b
     
-c, d = sehet ()
-e, f = sehet ()
-z, x = sehet ()
+c, d = schet ()
+e, f = schet ()
+z, x = schet ()
