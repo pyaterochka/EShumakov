@@ -12,7 +12,7 @@ def derevo():
                 print("Лох")
     while k < 3:
         xns = input("Ёлка? ")
-        if xns == "Elka":
+        if xns == "ёлка":
             print("Правильно")
             break
         else:
@@ -22,7 +22,7 @@ def derevo():
                 print("Лох")
     while k < 3:
         dns = input("Ёлка?? ")
-        if dns == "Elka":
+        if dns == "ёлка":
             print("Правильно")
             break
         else:
