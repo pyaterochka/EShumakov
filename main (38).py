@@ -2,7 +2,7 @@ def derevo():
     k=0
     while k < 3:
         ans = input("Отгадайте загадку 1, у вас 3 попыток - Зимой и летом одним цветом:")
-        if ans == "Elka":
+        if ans == "ёлка":
             print("Правильно")
             break
         else:
